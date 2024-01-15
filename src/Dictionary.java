@@ -22,7 +22,6 @@ public class Dictionary {
      * @para word w to be added to the tree with its definiton or translation. In this case it will be a transaltion
      */
     public void addWord(String w,String definition){
-// WRITE YOUR CODE HERE
         //Pass in the word we are looking for
         addWordHelper(w, definition, root);
     }
@@ -88,7 +87,6 @@ public class Dictionary {
 
     //Work on this last
     public String wordSearch(String s) {
-// WRITE YOUR CODE HERE
         return wordSearchHelper(s, root);
     }
 
@@ -124,7 +122,6 @@ public class Dictionary {
 
     public void depthFirstPrefixPrint(String s){
         //TODO will be used for finding all words of a given prefix
-// WRITE YOUR CODE HERE
         depthFirstPrefixPrintHelper(s, root);
     }
 
@@ -168,7 +165,6 @@ public class Dictionary {
         }
     }
 
-// WRITE YOUR CODE HERE
 
 
     /** Class to represent a node with 26 potential children
