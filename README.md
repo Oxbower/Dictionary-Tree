@@ -4,7 +4,6 @@ Simulates how a dictionary works, with word and prefix searching, Given a key ev
 # How it works 
 give a path to the arguement which contains the key and the description of words it should be in the format of:
 "Key"
-
 "Key:Description"
 ...
 
