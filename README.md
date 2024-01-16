@@ -7,4 +7,4 @@ give a path to the arguement which contains the key and the description of words
 "Key:Description"  
 ...  
 
-This was built back when I had no idea how to work with CSV's and data-bases, I will probably update this to consist of an interface and better storing of data in the future when I have more free time.
+This was built back when I had no idea how to work with CSV's and data-bases, I will probably update this to consist of an interface and better storing of data in the future.
